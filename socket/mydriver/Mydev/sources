@@ -1,0 +1,4 @@
+TARGETNAME=MyDev
+TARGETTYPE=DRIVER
+ 
+SOURCES=MyDev.cpp GetModule.cpp
